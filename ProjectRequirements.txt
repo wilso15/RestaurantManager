@@ -1,0 +1,17 @@
+Project 3 Restaurant Management System
+✓    Have a staff of employees
+✓    Have the ability to fire an employee
+✓    Have the ability to hire an employee based on a specific criteria
+✓    Set a daily wait staff (waiter, host, busser), bar staff (bartender), and kitchen staff (cook, dishwasher)
+-    At the end of the night, check off each staff member’s area to ensure it is clean
+
+✓    Prepare a daily menu (this may be the same for each day)
+✓    Set prices for food and drinks
+✓    Determine daily specials and set the appropriate special on the appropriate day
+✓    Change prices depending on if a special or happy hour
+
+✓    Develop a training program to train new staff members (this will alter based on the job they are hired for)
+✓    Have an inventory of ingredients 
+✓    Have the ability to take reservations
+
+Due Monday morning at 10 a.m.
